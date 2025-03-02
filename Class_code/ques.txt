@@ -1,0 +1,12 @@
+1) WAP to take input of name,age and fav color from the user using scanner class and display the output in 
+sentence format ex: hello my name is dhruv.I am 19 years old.My afv color is red.
+
+2) WAP to accept two integers using cmd arguments and switch case create a simple calc.
+
+3) Create a class employee with instance variables like salary,designaton,name.WAP to assign and display the
+values of these variables for two employees using constructors.
+
+4) create a class counter with a static var to count the no of objects created.
+WAP to create 3 objects and display the total of count for the objects.
+
+6) WAP to use joption pane to take the name and marks of three subjects add the marks of 3 and display them.

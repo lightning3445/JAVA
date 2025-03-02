@@ -1,0 +1,4 @@
+class welcomemessage extends thread
+{
+    
+}
